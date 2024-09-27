@@ -21,3 +21,25 @@
 ### 5. Luettele kaikki säätilatavoitteiden nimet ja pelaajan nimi, jos pelaaja on sen saavuttanut.
 
 ![](kuvat/viikko3/join/5.png)
+
+## Sisäkysely-harjoitukset
+
+### 1. Minkä nimisessä maassa sijaitsee sanalla ”Satsuma” alkava lentokenttä?
+
+![](kuvat/viikko3/sisakysely/1.png)
+
+### 2. Luettele Monacossa sijaitsevien lentokenttien nimet.
+
+![](kuvat/viikko3/sisakysely/2.png)
+
+### 3. Luettele nimimerkit, jotka ovat saavuttaneet säätilatavoitteen pilvistä (CLOUDS).
+
+![](kuvat/viikko3/sisakysely/3.png)
+
+### 4. Luettele kaikki maat, joissa ei ole lentokenttää.
+
+![](kuvat/viikko3/sisakysely/4.png)
+
+### 5. Minkä nimiset säätilatavoitteet Heiniltä on saavuttamatta?
+
+![](kuvat/viikko3/sisakysely/5.png)
