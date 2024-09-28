@@ -41,3 +41,23 @@
 ### 10. Mikä on lähimpänä napa-alueita olevan lentokentän nimi?
 
 ![](kuvat/viikko4/koostetieto/10.png)
+
+## Päivityskyselyharjoitukset
+
+### 1. Vesa lentää nykyiseltä sijainnilta Nottingham Airport:lle. Samalla Vesan hiilijalanjälki kasvaa 500:lla. Päivitä nämä tiedot tietokantaan.
+
+![](kuvat/viikko4/update/1.png)
+
+### 2. Ja nyt alustetaan oma tietokanta valmiiksi projektin kannalta. Eli poistetaan kaikki pelin tilaan liittyvä testidata. Viite-eheyden takia pystyt poistamaan datan vain fiksussa järjestyksessä. Täytyykö sinun poistaa ensin data game-taulusta vai goal_reached taulusta?
+
+Vastaus: goal_reached
+
+![](kuvat/viikko4/update/2.png)
+
+### 3. Poista data goal_reahed-taulusta
+
+![](kuvat/viikko4/update/3.png)
+
+### 4. Poista data game-taulusta
+
+![](kuvat/viikko4/update/4.png)
