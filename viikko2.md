@@ -69,3 +69,9 @@
 ![](kuvat/viikko2/where/8.png)
 
 ### 9. Minkä nimisellä lentokentällä Ilkka saavutti säätilan clouds?
+
+![](kuvat/viikko2/where/9.png)
+
+### 10. Minkä nimisessä maassa Ilkka saavutti säätilan clouds?
+
+![](kuvat/viikko2/where/10.png)
