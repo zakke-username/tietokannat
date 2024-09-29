@@ -34,6 +34,10 @@
 
 ![](kuvat/viikko2/yksi-taulu/8.png)
 
+### 9. Kuinka paljon alkuperäinen CO2 budjetti on (tulosta CO2 budjetin arvo vain kerran)?
+
+![](kuvat/viikko2/yksi-taulu/9.png)
+
 ## Where-osan liitosehto harjoitukset
 
 ### 1. Tee kysely, joka listaa maan nimen ja lentokentän nimen. Valitse maaksi Islanti ja anna country-taulun name-kentälle alias ”country name” ja airport taulun name-kentälle alias ”airport name”.

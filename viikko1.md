@@ -1,5 +1,5 @@
 # Viikko 1
 
-Relaatiotietokannan peruskäsitteiden harjoitukset palautettu Moodlessa.
+Relaatiotietokannan peruskäsitteiden harjoitukset palautettu ja läpäisty Moodlessa.
 
-"flight_game" -tietokanta luotu skriptillä ja source-komennolla.
+"flight_game" -tietokanta luotu skriptillä ja source-komennolla tunnilla.
